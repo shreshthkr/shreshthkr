@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://shreshthkr.github.io/)
 
-- 📫 How to reach me 
+- 📫 How to reach me **shreshthkumar6@gmail.com**
 
 - ⚡ Fun fact **I am a Hotelier**
 
