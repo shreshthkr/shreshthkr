@@ -32,10 +32,8 @@
 
 ## 📟 GitHub Stats
 <p align="center">
-
-
-&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shreshthkr&show_icons=true&locale=en" alt="shreshthkr" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreshthkr&" alt="shreshthkr" />
+     <img  src="https://github-readme-stats.vercel.app/api?username=shreshthkr&show_icons=true&locale=en" alt="shreshthkr" />
+     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=shreshthkr&" alt="shreshthkr" />
 </p>
 
 <p></p>
