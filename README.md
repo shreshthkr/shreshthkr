@@ -1,4 +1,4 @@
-<img src = "https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4713gtza5lgkbjx3rub9c7xrxhau8kto42l0pnmawm&rid=giphy.gif&ct=g" alt="shreshthkr" align="center" width="1000px" height="400px" />
+<img src = "https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4713gtza5lgkbjx3rub9c7xrxhau8kto42l0pnmawm&rid=giphy.gif&ct=g" alt="shreshthkr" align="center" width="1000px" height="300px" />
 <h1 align="center">Hi 👋, I'm Shreshth Kumar</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
@@ -36,4 +36,8 @@
      <img  src="https://github-readme-streak-stats.herokuapp.com/?user=shreshthkr&" alt="shreshthkr" />
 </p>
 
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shreshthkr&show_icons=true&locale=en&layout=compact" alt="shreshthkr" /></p>
 <p></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!" />
+ 
+</p>
