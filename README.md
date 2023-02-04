@@ -36,7 +36,7 @@
      <img  src="https://github-readme-streak-stats.herokuapp.com/?user=shreshthkr&" alt="shreshthkr" />
 </p>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shreshthkr&show_icons=true&locale=en&layout=compact" alt="shreshthkr" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreshthkr&langs_count=8" /></p>
 <p></p>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!" />
  
