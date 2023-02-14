@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [my portfolio](https://shreshthkr.github.io/)
   <img src = "https://media4.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=790b7611443689aa79f014acb829778b69890a3fc01f16fa&rid=giphy.gif&ct=g" alt="coder" align="right" width="400px" height="220px" />
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
